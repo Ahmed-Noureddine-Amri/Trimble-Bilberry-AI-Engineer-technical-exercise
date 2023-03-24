@@ -1,7 +1,5 @@
 # Trimble-Bilberry-AI-Engineer-technical-exercise
 
-# Road and Field Image Classifier
-
 This repository contains the code for a deep learning model that classifies images into either "Road" or "Field" categories. The model is built using TensorFlow and Keras, employing the VGG16 architecture with transfer learning.
 
 
