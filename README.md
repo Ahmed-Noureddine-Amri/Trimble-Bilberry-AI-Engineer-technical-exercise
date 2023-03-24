@@ -28,7 +28,7 @@ road-field-classification/
 |   |-- Road/
 |
 |-- models/                      # Folder to save trained models
-|   |-- road_field_classifier.h5
+|   |-- road_field_classifier_vgg16.h5
 |
 |-- summaries/                   # Folder containing summary files related to the task
 |   |-- Summary-A ConvNet for the 2020s.pdf
